@@ -2,6 +2,9 @@
 
 **投稿事前検問装置**
 
+<img width="702" height="935" alt="image" src="https://github.com/user-attachments/assets/626d9d07-6cab-4ada-9397-bbfaee26827e" />
+
+
 SNSへ投稿する前に、文章に含まれる「事故りやすい要素」をローカルAIで検査するWindows向けツールです。
 
 KONTROLは文章の面白さ、センス、バズりやすさを評価しません。  
